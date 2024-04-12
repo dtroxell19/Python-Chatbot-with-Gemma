@@ -1,0 +1,240 @@
+{"<QUESTION>": "How to print 'Hello, World!' in Python?", "<RESPONSE>": "print('Hello, World!')"}
+{"<QUESTION>": "How to assign the value 5 to a variable named 'x'?", "<RESPONSE>": "x = 5"}
+{"<QUESTION>": "How to create a list containing the numbers 1, 2, and 3?", "<RESPONSE>": "my_list = [1, 2, 3]"}
+{"<QUESTION>": "How to access the third element of a list named 'my_list'?", "<RESPONSE>": "my_list[2]"}
+{"<QUESTION>": "How to define a function named 'add' that takes two parameters 'a' and 'b' and returns their sum?", "<RESPONSE>": "def add(a, b):\n    return a + b"}
+{"<QUESTION>": "How to check if a number 'x' is greater than 10?", "<RESPONSE>": "x > 10"}
+{"<QUESTION>": "How to create a tuple containing the strings 'apple', 'banana', and 'cherry'?", "<RESPONSE>": "my_tuple = ('apple', 'banana', 'cherry')"}
+{"<QUESTION>": "How to loop through each item in a list named 'my_list'?", "<RESPONSE>": "for item in my_list:\n    print(item)"}
+{"<QUESTION>": "How to define a dictionary with keys 'name' and 'age' and their respective values 'John' and 30?", "<RESPONSE>": "my_dict = {'name': 'John', 'age': 30}"}
+{"<QUESTION>": "How to check if a string 's' contains the substring 'hello'?", "<RESPONSE>": "'hello' in s"}
+{"<QUESTION>": "How to calculate the square of a number 'x'?", "<RESPONSE>": "x ** 2"}
+{"<QUESTION>": "How to add a new element '4' to the end of a list named 'my_list'?", "<RESPONSE>": "my_list.append(4)"}
+{"<QUESTION>": "How to remove the first occurrence of '5' from a list named 'my_list'?", "<RESPONSE>": "my_list.remove(5)"}
+{"<QUESTION>": "How to sort a list named 'my_list' in ascending order?", "<RESPONSE>": "my_list.sort()"}
+{"<QUESTION>": "How to get the length of a string 's'?", "<RESPONSE>": "len(s)"}
+{"<QUESTION>": "How to split a string 's' into a list of words?", "<RESPONSE>": "s.split()"}
+{"<QUESTION>": "How to create a set containing the elements '1', '2', and '3'?", "<RESPONSE>": "my_set = {1, 2, 3}"}
+{"<QUESTION>": "How to get the value associated with the key 'name' in a dictionary named 'my_dict'?", "<RESPONSE>": "my_dict['name']"}
+{"<QUESTION>": "How to check if a key 'age' exists in a dictionary named 'my_dict'?", "<RESPONSE>": "'age' in my_dict.keys()"}
+{"<QUESTION>": "How to open a file named 'example.txt' in read mode?", "<RESPONSE>": "file = open('example.txt', 'r')"}
+{"<QUESTION>": "Print the result of adding 5 and 3", "<RESPONSE>": "print(5 + 3)"}
+{"<QUESTION>": "Assign the value 10 to a variable named 'num'", "<RESPONSE>": "num = 10"}
+{"<QUESTION>": "Create a list with the elements 'apple', 'banana', and 'orange'", "<RESPONSE>": "fruits = ['apple', 'banana', 'orange']"}
+{"<QUESTION>": "Access the second element of the list 'fruits'", "<RESPONSE>": "fruits[1]"}
+{"<QUESTION>": "Define a function named 'multiply' that takes two parameters 'a' and 'b' and returns their product", "<RESPONSE>": "def multiply(a, b):\n    return a * b"}
+{"<QUESTION>": "Check if a number 'x' is less than or equal to 5", "<RESPONSE>": "x <= 5"}
+{"<QUESTION>": "Create a tuple with the elements 1, 2, and 3", "<RESPONSE>": "numbers = (1, 2, 3)"}
+{"<QUESTION>": "Loop through each character in a string named 'word'", "<RESPONSE>": "for char in word:\n    print(char)"}
+{"<QUESTION>": "Define a dictionary with the keys 'name' and 'age' and their respective values 'Alice' and 25", "<RESPONSE>": "person = {'name': 'Alice', 'age': 25}"}
+{"<QUESTION>": "Check if the string 'sentence' contains the word 'Python'", "<RESPONSE>": "'Python' in sentence"}
+{"<QUESTION>": "Calculate the remainder when dividing 10 by 3", "<RESPONSE>": "10 % 3"}
+{"<QUESTION>": "Append the number 7 to the end of a list named 'numbers'", "<RESPONSE>": "numbers.append(7)"}
+{"<QUESTION>": "Remove the element at index 2 from the list 'items'", "<RESPONSE>": "del items[2]"}
+{"<QUESTION>": "Sort the list 'data' in descending order", "<RESPONSE>": "data.sort(reverse=True)"}
+{"<QUESTION>": "Count the number of occurrences of the character 'a' in the string 'text'", "<RESPONSE>": "text.count('a')"}
+{"<QUESTION>": "Join the elements of the list 'words' into a single string separated by spaces", "<RESPONSE>": "' '.join(words)"}
+{"<QUESTION>": "Create a set with the elements 1, 2, and 3", "<RESPONSE>": "my_set = {1, 2, 3}"}
+{"<QUESTION>": "Get the value associated with the key 'price' in the dictionary 'product'", "<RESPONSE>": "product['price']"}
+{"<QUESTION>": "Check if the key 'email' exists in the dictionary 'contact'", "<RESPONSE>": "'email' in contact.keys()"}
+{"<QUESTION>": "Open a file named 'data.txt' in write mode", "<RESPONSE>": "file = open('data.txt', 'w')"}
+{"<QUESTION>": "Print the result of multiplying 6 and 4", "<RESPONSE>": "print(6 * 4)"}
+{"<QUESTION>": "Assign the string 'hello' to a variable named 'greeting'", "<RESPONSE>": "greeting = 'hello'"}
+{"<QUESTION>": "Create a list with the integers 10, 20, and 30", "<RESPONSE>": "numbers = [10, 20, 30]"}
+{"<QUESTION>": "Access the last element of the list 'numbers'", "<RESPONSE>": "numbers[-1]"}
+{"<QUESTION>": "Define a function named 'divide' that takes two parameters 'x' and 'y' and returns their quotient", "<RESPONSE>": "def divide(x, y):\n    return x / y"}
+{"<QUESTION>": "Check if a string 'sentence' starts with the word 'The'", "<RESPONSE>": "sentence.startswith('The')"}
+{"<QUESTION>": "Create a tuple with the elements 'apple', 'banana', and 'cherry'", "<RESPONSE>": "fruits = ('apple', 'banana', 'cherry')"}
+{"<QUESTION>": "Loop through each key in the dictionary 'data'", "<RESPONSE>": "for key in data:\n    print(key)"}
+{"<QUESTION>": "Add a new key-value pair 'city' with value 'New York' to the dictionary 'info'", "<RESPONSE>": "info['city'] = 'New York'"}
+{"<QUESTION>": "Check if the value 25 is present in the set 'numbers'", "<RESPONSE>": "25 in numbers"}
+{"<QUESTION>": "Calculate the square root of 25", "<RESPONSE>": "import math\nmath.sqrt(25)"}
+{"<QUESTION>": "Assign the value 'blue' to the variable 'color'", "<RESPONSE>": "color = 'blue'"}
+{"<QUESTION>": "Create a list with the elements 'dog', 'cat', and 'bird'", "<RESPONSE>": "pets = ['dog', 'cat', 'bird']"}
+{"<QUESTION>": "Access the second-to-last element of the list 'pets'", "<RESPONSE>": "pets[-2]"}
+{"<QUESTION>": "Define a function named 'power' that takes two parameters 'base' and 'exponent' and returns the result of raising 'base' to the power of 'exponent'", "<RESPONSE>": "def power(base, exponent):\n    return base ** exponent"}
+{"<QUESTION>": "Check if a string 'phrase' ends with the word 'world'", "<RESPONSE>": "phrase.endswith('world')"}
+{"<QUESTION>": "Create a tuple with the elements 1, 2, and 3", "<RESPONSE>": "numbers = (1, 2, 3)"}
+{"<QUESTION>": "Loop through each value in the dictionary 'grades'", "<RESPONSE>": "for grade in grades.values():\n    print(grade)"}
+{"<QUESTION>": "Remove the key 'age' from the dictionary 'person'", "<RESPONSE>": "del person['age']"}
+{"<QUESTION>": "Check if the value 42 is present in the set 'numbers'", "<RESPONSE>": "42 in numbers"}
+{"<QUESTION>": "Print the result of dividing 20 by 4", "<RESPONSE>": "print(20 / 4)"}
+{"<QUESTION>": "Assign the value 'python' to the variable 'language'", "<RESPONSE>": "language = 'python'"}
+{"<QUESTION>": "Create a list with the elements 1, 2.5, and 'hello'", "<RESPONSE>": "my_list = [1, 2.5, 'hello']"}
+{"<QUESTION>": "Access the first element of the list 'my_list'", "<RESPONSE>": "my_list[0]"}
+{"<QUESTION>": "Define a function named 'concatenate' that takes two parameters 'str1' and 'str2' and returns their concatenation", "<RESPONSE>": "def concatenate(str1, str2):\n    return str1 + str2"}
+{"<QUESTION>": "Check if a string 'text' contains the substring 'world'", "<RESPONSE>": "'world' in text"}
+{"<QUESTION>": "Create a tuple with the elements 'red', 'green', and 'blue'", "<RESPONSE>": "colors = ('red', 'green', 'blue')"}
+{"<QUESTION>": "Loop through each key-value pair in the dictionary 'person'", "<RESPONSE>": "for key, value in person.items():\n    print(key, value)"}
+{"<QUESTION>": "Add a new key-value pair 'email' with value 'example@example.com' to the dictionary 'contact'", "<RESPONSE>": "contact['email'] = 'example@example.com'"}
+{"<QUESTION>": "Check if the value 'apple' is present in the set 'fruits'", "<RESPONSE>": "'apple' in fruits"}
+{"<QUESTION>": "What is the result of adding 5 and 7?", "<RESPONSE>": "print(5 + 7)"}
+{"<QUESTION>": "Assign the string 'hello' to a variable named 'greeting'", "<RESPONSE>": "greeting = 'hello'"}
+{"<QUESTION>": "Construct a list containing the elements 'apple', 'banana', and 'orange'", "<RESPONSE>": "fruits = ['apple', 'banana', 'orange']"}
+{"<QUESTION>": "Retrieve the second element from the end of the list 'fruits'", "<RESPONSE>": "print(fruits[-2])"}
+{"<QUESTION>": "Define a function named 'add' that takes two parameters 'x' and 'y' and returns their sum", "<RESPONSE>": "def add(x, y):\n    return x + y"}
+{"<QUESTION>": "Is the substring 'world' present in the string 'hello world'?", "<RESPONSE>": "print('world' in 'hello world')"}
+{"<QUESTION>": "Form a tuple with the values 1, 2, and 3", "<RESPONSE>": "numbers = (1, 2, 3)"}
+{"<QUESTION>": "Iterate through each character in the string 'word'", "<RESPONSE>": "for char in 'word':\n    print(char)"}
+{"<QUESTION>": "Include a new key 'city' with value 'New York' in the dictionary 'details'", "<RESPONSE>": "details['city'] = 'New York'"}
+{"<QUESTION>": "Is the value 25 present in the set 'numbers'?", "<RESPONSE>": "print(25 in numbers)"}
+{"<QUESTION>": "Print the result of multiplying 4 by 5", "<RESPONSE>": "result = 4 * 5\nprint(result)"}
+{"<QUESTION>": "Assign the string 'hello' to a variable named 'message'", "<RESPONSE>": "message = 'hello'\nprint(message)"}
+{"<QUESTION>": "Create a list with the elements 'apple', 'banana', and 'orange'", "<RESPONSE>": "fruits = ['apple', 'banana', 'orange']\nprint(fruits)"}
+{"<QUESTION>": "Access the third element of the list 'numbers'", "<RESPONSE>": "numbers = [1, 2, 3, 4, 5]\nprint(numbers[2])"}
+{"<QUESTION>": "Define a function named 'add' that takes two parameters 'x' and 'y' and returns their sum", "<RESPONSE>": "def add(x, y):\n    sum_result = x + y\n    return sum_result"}
+{"<QUESTION>": "Check if the substring 'world' is present in the string 'hello world'", "<RESPONSE>": "search_result = 'world' in 'hello world'\nprint(search_result)"}
+{"<QUESTION>": "Create a tuple with the values 'red', 'green', and 'blue'", "<RESPONSE>": "colors = ('red', 'green', 'blue')\nprint(colors)"}
+{"<QUESTION>": "Iterate through each key-value pair in the dictionary 'person'", "<RESPONSE>": "person = {'name': 'John', 'age': 30, 'city': 'New York'}\nfor key, value in person.items():\n    print(key, value)"}
+{"<QUESTION>": "Add a new key 'email' with value 'example@example.com' to the dictionary 'contact'", "<RESPONSE>": "contact = {}\ncontact['email'] = 'example@example.com'"}
+{"<QUESTION>": "Check if the value 25 is present in the set 'numbers'", "<RESPONSE>": "numbers = {10, 20, 30, 40}\nif 25 in numbers:\n    print('25 is present')\nelse:\n    print('25 is not present')"}
+{"<QUESTION>": "Calculate the average of the numbers 10, 20, and 30", "<RESPONSE>": "numbers = [10, 20, 30]\naverage = sum(numbers) / len(numbers)"}
+{"<QUESTION>": "Assign the result of '5 divided by 2' to a variable named 'result'", "<RESPONSE>": "result = 5 / 2"}
+{"<QUESTION>": "Create a dictionary with keys 'name', 'age', and 'city', and assign them the values 'John', 30, and 'New York' respectively", "<RESPONSE>": "person_info = {'name': 'John', 'age': 30, 'city': 'New York'}"}
+{"<QUESTION>": "Retrieve the values associated with the keys 'name' and 'age' from the dictionary 'person_info'", "<RESPONSE>": "name = person_info['name']\nage = person_info['age']"}
+{"<QUESTION>": "Define a function named 'calculate_area' that takes two parameters 'width' and 'height' and returns their product", "<RESPONSE>": "def calculate_area(width, height):\n    return width * height"}
+{"<QUESTION>": "Check if the string 'hello' starts with the letter 'h'", "<RESPONSE>": "starts_with_h = 'hello'.startswith('h')"}
+{"<QUESTION>": "Create a set with the elements 1, 2, and 3", "<RESPONSE>": "my_set = {1, 2, 3}"}
+{"<QUESTION>": "Loop through each character in the string 'Python' and print each character along with its index", "<RESPONSE>": "for index, char in enumerate('Python'):\n    print('Character:', char, 'Index:', index)"}
+{"<QUESTION>": "Add the number 5 to the end of the list 'numbers'", "<RESPONSE>": "numbers.append(5)"}
+{"<QUESTION>": "Remove the element at index 2 from the list 'items'", "<RESPONSE>": "del items[2]"}
+{"<QUESTION>": "Calculate the sum of the numbers 1, 2, and 3", "<RESPONSE>": "num1 = 1\nnum2 = 2\nnum3 = 3\nsum_result = num1 + num2 + num3\nprint(sum_result)"}
+{"<QUESTION>": "Assign the string 'Hello, World!' to a variable named 'message'", "<RESPONSE>": "message = 'Hello, World!'\nprint(message)"}
+{"<QUESTION>": "Create a list containing the integers 1, 2, and 3", "<RESPONSE>": "my_list = [1, 2, 3]\nprint(my_list)"}
+{"<QUESTION>": "Retrieve the second element from the list 'items'", "<RESPONSE>": "items = ['apple', 'banana', 'orange', 'grape']\nsecond_item = items[1]\nprint(second_item)"}
+{"<QUESTION>": "Define a function named 'multiply' that takes two parameters 'a' and 'b' and returns their product", "<RESPONSE>": "def multiply(a, b):\n    product = a * b\n    return product\n\nresult = multiply(3, 4)\nprint(result)"}
+{"<QUESTION>": "Check if the substring 'world' is present in the string 'Hello, world!'", "<RESPONSE>": "search_text = 'Hello, world!'\nsubstring = 'world'\nif substring in search_text:\n    print('Substring found')\nelse:\n    print('Substring not found')"}
+{"<QUESTION>": "Create a tuple containing the strings 'apple', 'banana', and 'orange'", "<RESPONSE>": "my_tuple = ('apple', 'banana', 'orange')\nprint(my_tuple)"}
+{"<QUESTION>": "Iterate through each key-value pair in the dictionary 'person'", "<RESPONSE>": "person = {'name': 'John', 'age': 30, 'city': 'New York'}\nfor key, value in person.items():\n    print(key, value)"}
+{"<QUESTION>": "Add the key 'age' with value 25 to the dictionary 'person_details'", "<RESPONSE>": "person_details = {}\nperson_details['age'] = 25\nprint(person_details)"}
+{"<QUESTION>": "Check if the value 'apple' exists in the set 'fruits'", "<RESPONSE>": "fruits = {'apple', 'banana', 'orange'}\nif 'apple' in fruits:\n    print('Apple exists in fruits')\nelse:\n    print('Apple does not exist in fruits')"}
+{"<QUESTION>": "Calculate the average of the numbers 10, 20, and 30", "<RESPONSE>": "numbers = [10, 20, 30]\naverage = sum(numbers) / len(numbers)\nprint('Average:', average)"}
+{"<QUESTION>": "Assign the result of '5 divided by 2' to a variable named 'result'", "<RESPONSE>": "result = 5 / 2\nprint('Result:', result)"}
+{"<QUESTION>": "Create a dictionary with keys 'name', 'age', and 'city', and assign them the values 'John', 30, and 'New York' respectively", "<RESPONSE>": "person_info = {'name': 'John', 'age': 30, 'city': 'New York'}\nprint('Person Info:', person_info)"}
+{"<QUESTION>": "Retrieve the values associated with the keys 'name' and 'age' from the dictionary 'person_info'", "<RESPONSE>": "name = person_info['name']\nage = person_info['age']\nprint('Name:', name)\nprint('Age:', age)"}
+{"<QUESTION>": "Define a function named 'calculate_area' that takes two parameters 'width' and 'height' and returns their product", "<RESPONSE>": "def calculate_area(width, height):\n    area = width * height\n    return area\n\nresult = calculate_area(4, 5)\nprint('Area:', result)"}
+{"<QUESTION>": "Check if the string 'hello' starts with the letter 'h'", "<RESPONSE>": "starts_with_h = 'hello'.startswith('h')\nprint('Starts with H:', starts_with_h)"}
+{"<QUESTION>": "Create a set with the elements 1, 2, and 3", "<RESPONSE>": "my_set = {1, 2, 3}\nprint('Set:', my_set)"}
+{"<QUESTION>": "Loop through each character in the string 'Python' and print each character along with its index", "<RESPONSE>": "for index, char in enumerate('Python'):\n    print('Character:', char, 'Index:', index)"}
+{"<QUESTION>": "Add the number 5 to the end of the list 'numbers'", "<RESPONSE>": "numbers = [1, 2, 3, 4]\nnumbers.append(5)\nprint('Updated Numbers:', numbers)"}
+{"<QUESTION>": "Remove the element at index 2 from the list 'items'", "<RESPONSE>": "items = ['apple', 'banana', 'orange']\ndel items[2]\nprint('Updated Items:', items)"}
+{"<QUESTION>": "Calculate the factorial of 10", "<RESPONSE>": "import math\nfactorial = math.factorial(10)\nprint('Factorial of 10:', factorial)"}
+{"<QUESTION>": "Assign the result of '5 raised to the power of 3' to a variable named 'result'", "<RESPONSE>": "result = 5 ** 3\nprint('Result:', result)"}
+{"<QUESTION>": "Create a dictionary comprehension to generate a dictionary where the keys are numbers from 1 to 5 and the values are their squares", "<RESPONSE>": "squares = {x: x**2 for x in range(1, 6)}\nprint('Squares:', squares)"}
+{"<QUESTION>": "Retrieve the values associated with the keys 'name' and 'age' from the dictionary 'person_info' using dictionary unpacking", "<RESPONSE>": "person_info = {'name': 'John', 'age': 30, 'city': 'New York'}\nname, age = person_info['name'], person_info['age']\nprint('Name:', name)\nprint('Age:', age)"}
+{"<QUESTION>": "Define a lambda function named 'square' that takes a parameter 'x' and returns its square", "<RESPONSE>": "square = lambda x: x ** 2\nresult = square(5)\nprint('Result:', result)"}
+{"<QUESTION>": "Check if the string 'hello' contains only alphanumeric characters", "<RESPONSE>": "contains_alphanumeric = 'hello'.isalnum()\nprint('Contains Alphanumeric:', contains_alphanumeric)"}
+{"<QUESTION>": "Create a set comprehension to generate a set containing the squares of numbers from 1 to 10", "<RESPONSE>": "squares_set = {x**2 for x in range(1, 11)}\nprint('Squares Set:', squares_set)"}
+{"<QUESTION>": "Use a list comprehension to filter out even numbers from the list 'numbers'", "<RESPONSE>": "numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\neven_numbers = [x for x in numbers if x % 2 == 0]\nprint('Even Numbers:', even_numbers)"}
+{"<QUESTION>": "Loop through each character in the string 'Python' and print each character along with its ASCII value", "<RESPONSE>": "for char in 'Python':\n    ascii_value = ord(char)\n    print('Character:', char, 'ASCII Value:', ascii_value)"}
+{"<QUESTION>": "Sort the list 'items' in reverse order", "<RESPONSE>": "items = ['apple', 'banana', 'orange', 'grape']\nitems.sort(reverse=True)\nprint('Sorted Items:', items)"}
+{"<QUESTION>": "Create a function named 'add' that takes two parameters 'a' and 'b', and returns their sum", "<RESPONSE>": "def add(a, b):\n    sum_result = a + b\n    return sum_result\n\nresult = add(3, 5)\nprint('Result:', result)"}
+{"<QUESTION>": "Define a class named 'Rectangle' with attributes 'width' and 'height', and a method 'area' that returns the area of the rectangle", "<RESPONSE>": "class Rectangle:\n    def __init__(self, width, height):\n        self.width = width\n        self.height = height\n\n    def area(self):\n        return self.width * self.height\n\nrect = Rectangle(4, 5)\nprint('Area:', rect.area())"}
+{"<QUESTION>": "Create a list comprehension to generate a list containing the squares of numbers from 1 to 10", "<RESPONSE>": "squares = [x**2 for x in range(1, 11)]\nprint('Squares:', squares)"}
+{"<QUESTION>": "Write a conditional statement to check if a number is positive, negative, or zero", "<RESPONSE>": "num = 10\nif num > 0:\n    print('Positive')\nelif num < 0:\n    print('Negative')\nelse:\n    print('Zero')"}
+{"<QUESTION>": "Create a while loop to print numbers from 1 to 5", "<RESPONSE>": "num = 1\nwhile num <= 5:\n    print(num)\n    num += 1"}
+{"<QUESTION>": "Define a function named 'factorial' to calculate the factorial of a given number 'n'", "<RESPONSE>": "def factorial(n):\n    result = 1\n    for i in range(1, n + 1):\n        result *= i\n    return result\n\nprint('Factorial of 5:', factorial(5))"}
+{"<QUESTION>": "Write a for loop to iterate over a list 'numbers' and print each number multiplied by 2", "<RESPONSE>": "numbers = [1, 2, 3, 4, 5]\nfor num in numbers:\n    print(num * 2)"}
+{"<QUESTION>": "Create a dictionary 'person' with keys 'name' and 'age', and assign them the values 'John' and 30 respectively", "<RESPONSE>": "person = {'name': 'John', 'age': 30}\nprint('Person:', person)"}
+{"<QUESTION>": "Define a function named 'is_even' that takes a number 'n' as input and returns True if it's even, otherwise False", "<RESPONSE>": "def is_even(n):\n    return n % 2 == 0\n\nprint('Is 4 even?', is_even(4))"}
+{"<QUESTION>": "Create a tuple containing the strings 'apple', 'banana', and 'orange'", "<RESPONSE>": "my_tuple = ('apple', 'banana', 'orange')\nprint('Tuple:', my_tuple)"}
+{"<QUESTION>": "Create a function named 'calculate_grade' that takes a parameter 'score' and returns 'A' if the score is 90 or above, 'B' if the score is between 80 and 89, 'C' if the score is between 70 and 79, 'D' if the score is between 60 and 69, and 'F' if the score is below 60", "<RESPONSE>": "def calculate_grade(score):\n    if score >= 90:\n        return 'A'\n    elif score >= 80:\n        return 'B'\n    elif score >= 70:\n        return 'C'\n    elif score >= 60:\n        return 'D'\n    else:\n        return 'F'\n\nresult = calculate_grade(85)\nprint('Grade:', result)"}
+{"<QUESTION>": "Create a list named 'evens' containing the even numbers from 1 to 10 using a list comprehension", "<RESPONSE>": "evens = [x for x in range(1, 11) if x % 2 == 0]\nprint('Even Numbers:', evens)"}
+{"<QUESTION>": "Define a function named 'is_palindrome' that takes a string parameter 'word' and returns 'True' if the word is a palindrome and 'False' otherwise", "<RESPONSE>": "def is_palindrome(word):\n    return word == word[::-1]\n\nresult = is_palindrome('radar')\nprint('Is Palindrome:', result)"}
+{"<QUESTION>": "Create a dictionary named 'squared_numbers' where the keys are numbers from 1 to 5 and the values are the squares of those numbers", "<RESPONSE>": "squared_numbers = {}\nfor num in range(1, 6):\n    squared_numbers[num] = num ** 2\nprint('Squared Numbers:', squared_numbers)"}
+{"<QUESTION>": "Define a function named 'reverse_string' that takes a string parameter 'text' and returns the reversed string", "<RESPONSE>": "def reverse_string(text):\n    return text[::-1]\n\nresult = reverse_string('hello')\nprint('Reversed String:', result)"}
+{"<QUESTION>": "Create a list named 'doubled_numbers' containing the numbers from 1 to 5 doubled using a list comprehension", "<RESPONSE>": "doubled_numbers = [x * 2 for x in range(1, 6)]\nprint('Doubled Numbers:', doubled_numbers)"}
+{"<QUESTION>": "Define a function named 'is_prime' that takes a number parameter 'num' and returns 'True' if the number is prime and 'False' otherwise", "<RESPONSE>": "def is_prime(num):\n    if num <= 1:\n        return False\n    for i in range(2, int(num ** 0.5) + 1):\n        if num % i == 0:\n            return False\n    return True\n\nresult = is_prime(7)\nprint('Is Prime:', result)"}
+{"<QUESTION>": "Create a list named 'positive_numbers' containing the positive numbers from -5 to 5 using a list comprehension", "<RESPONSE>": "positive_numbers = [x for x in range(-5, 6) if x > 0]\nprint('Positive Numbers:', positive_numbers)"}
+{"<QUESTION>": "Define a function named 'count_vowels' that takes a string parameter 'text' and returns the count of vowels in the string", "<RESPONSE>": "def count_vowels(text):\n    vowels = 'aeiouAEIOU'\n    count = 0\n    for char in text:\n        if char in vowels:\n            count += 1\n    return count\n\nresult = count_vowels('hello world')\nprint('Number of Vowels:', result)"}
+{"<QUESTION>": "Create a dictionary named 'cube_numbers' where the keys are numbers from 1 to 5 and the values are the cubes of those numbers", "<RESPONSE>": "cube_numbers = {num: num ** 3 for num in range(1, 6)}\nprint('Cube Numbers:', cube_numbers)"}
+{"<QUESTION>": "Create a generator function named 'fibonacci_generator' that yields Fibonacci numbers infinitely", "<RESPONSE>": "def fibonacci_generator():\n    a, b = 0, 1\n    while True:\n        yield a\n        a, b = b, a + b\n\nfib_gen = fibonacci_generator()\nfor _ in range(10):\n    print(next(fib_gen))"}
+{"<QUESTION>": "Write a context manager named 'timer' that measures the time taken by a block of code to execute", "<RESPONSE>": "import time\n\nclass Timer:\n    def __enter__(self):\n        self.start_time = time.time()\n        return self\n    \n    def __exit__(self, exc_type, exc_value, traceback):\n        self.end_time = time.time()\n        print('Time taken:', self.end_time - self.start_time)\n\nwith Timer():\n    # Your code block here"}
+{"<QUESTION>": "Create a decorator named 'retry' that retries executing a function a specified number of times if it fails", "<RESPONSE>": "import functools\nimport time\n\ndef retry(num_retries):\n    def decorator(func):\n        @functools.wraps(func)\n        def wrapper(*args, **kwargs):\n            for _ in range(num_retries):\n                try:\n                    return func(*args, **kwargs)\n                except Exception as e:\n                    print('Exception:', e)\n                    time.sleep(1)\n            raise Exception('Retry limit exceeded')\n        return wrapper\n    return decorator\n\n@retry(num_retries=3)\ndef my_function():\n    # Your function code here"}
+{"<QUESTION>": "Write a custom metaclass named 'Singleton' that ensures only one instance of a class is created", "<RESPONSE>": "class Singleton(type):\n    _instances = {}\n\n    def __call__(cls, *args, **kwargs):\n        if cls not in cls._instances:\n            cls._instances[cls] = super().__call__(*args, **kwargs)\n        return cls._instances[cls]\n\nclass MyClass(metaclass=Singleton):\n    pass"}
+{"<QUESTION>": "Implement a decorator named 'memoize' that caches the results of a function and returns the cached result if the same inputs are provided again", "<RESPONSE>": "import functools\n\ndef memoize(func):\n    cache = {}\n    @functools.wraps(func)\n    def wrapper(*args, **kwargs):\n        key = (args, tuple(sorted(kwargs.items())))\n        if key not in cache:\n            cache[key] = func(*args, **kwargs)\n        return cache[key]\n    return wrapper\n\n@memoize\ndef my_function(x, y):\n    # Your function code here"}
+{"<QUESTION>": "Write a function named 'async_download' that asynchronously downloads multiple URLs concurrently using async/await syntax", "<RESPONSE>": "import aiohttp\nimport asyncio\n\nasync def async_download(urls):\n    async with aiohttp.ClientSession() as session:\n        tasks = [download_url(session, url) for url in urls]\n        await asyncio.gather(*tasks)\n\nasync def download_url(session, url):\n    async with session.get(url) as response:\n        print('Downloaded:', url, 'Status:', response.status)\n\n# Usage: asyncio.run(async_download(['http://example.com', 'http://example.org']))"}
+{"<QUESTION>": "Implement a custom iterable object named 'CustomRange' that iterates over a range of numbers and supports custom step sizes", "<RESPONSE>": "class CustomRange:\n    def __init__(self, start, stop, step=1):\n        self.start = start\n        self.stop = stop\n        self.step = step\n\n    def __iter__(self):\n        return self\n\n    def __next__(self):\n        if self.start >= self.stop:\n            raise StopIteration\n        result = self.start\n        self.start += self.step\n        return result\n\n# Usage: for num in CustomRange(0, 10, 2):\n#            print(num)"}
+{"<QUESTION>": "Write a function named 'flatten' that flattens a nested list recursively", "<RESPONSE>": "def flatten(nested_list):\n    flattened_list = []\n    for item in nested_list:\n        if isinstance(item, list):\n            flattened_list.extend(flatten(item))\n        else:\n            flattened_list.append(item)\n    return flattened_list\n\n# Usage: nested_list = [1, [2, 3], [4, [5, 6]], 7]\n#        flattened = flatten(nested_list)\n#        print(flattened)"}
+{"<QUESTION>": "Implement a context manager named 'redirect_stdout' that redirects the standard output to a file", "<RESPONSE>": "import sys\n\nclass RedirectStdout:\n    def __init__(self, filename):\n        self.filename = filename\n        self.old_stdout = sys.stdout\n\n    def __enter__(self):\n        self.file = open(self.filename, 'w')\n        sys.stdout = self.file\n\n    def __exit__(self, exc_type, exc_value, traceback):\n        sys.stdout = self.old_stdout\n        self.file.close()\n\n# Usage: with RedirectStdout('output.txt'):\n#            print('Hello, World!')"}
+{"<QUESTION>": "Write a function named 'binary_search' that performs a binary search on a sorted list and returns the index of the target value if found, or -1 otherwise", "<RESPONSE>": "def binary_search(arr, target):\n    left, right = 0, len(arr) - 1\n    while left <= right:\n        mid = (left + right) // 2\n        if arr[mid] == target:\n            return mid\n        elif arr[mid] < target:\n            left = mid + 1\n        else:\n            right = mid - 1\n    return -1\n\n# Usage: arr = [1, 2, 3, 4, 5]\n#        target_index = binary_search(arr, 3)\n#        print('Target Index:', target_index)"}
+{"<QUESTION>": "Implement a function named 'bubble_sort' that sorts a list using the bubble sort algorithm", "<RESPONSE>": "def bubble_sort(arr):\n    n = len(arr)\n    for i in range(n - 1):\n        for j in range(0, n - i - 1):\n            if arr[j] > arr[j + 1]:\n                arr[j], arr[j + 1] = arr[j + 1], arr[j]\n\n# Usage: arr = [5, 3, 1, 4, 2]\n#        bubble_sort(arr)\n#        print('Sorted Array:', arr)"}
+{"<QUESTION>": "Write a function named 'insertion_sort' that sorts a list using the insertion sort algorithm", "<RESPONSE>": "def insertion_sort(arr):\n    for i in range(1, len(arr)):\n        key = arr[i]\n        j = i - 1\n        while j >= 0 and key < arr[j]:\n            arr[j + 1] = arr[j]\n            j -= 1\n        arr[j + 1] = key\n\n# Usage: arr = [5, 3, 1, 4, 2]\n#        insertion_sort(arr)\n#        print('Sorted Array:', arr)"}
+{"<QUESTION>": "Write a function to calculate the factorial of a number", "<RESPONSE>": "def factorial(n):\n    if n == 0:\n        return 1\n    return n * factorial(n - 1)"}
+{"<QUESTION>": "Create a class representing a circle with methods to calculate its area and circumference", "<RESPONSE>": "class Circle:\n    def __init__(self, radius):\n        self.radius = radius\n    def area(self):\n        return 3.14 * self.radius ** 2\n    def circumference(self):\n        return 2 * 3.14 * self.radius"}
+{"<QUESTION>": "Write a function to find the largest element in a list", "<RESPONSE>": "def find_largest(lst):\n    return max(lst)"}
+{"<QUESTION>": "Create a generator function to generate Fibonacci numbers up to a given limit", "<RESPONSE>": "def fibonacci(limit):\n    a, b = 0, 1\n    while a <= limit:\n        yield a\n        a, b = b, a + b"}
+{"<QUESTION>": "Write a function to check if a string is a palindrome", "<RESPONSE>": "def is_palindrome(s):\n    return s == s[::-1]"}
+{"<QUESTION>": "Create a class representing a stack with methods to push, pop, and check if it's empty", "<RESPONSE>": "class Stack:\n    def __init__(self):\n        self.items = []\n    def push(self, item):\n        self.items.append(item)\n    def pop(self):\n        return self.items.pop()\n    def is_empty(self):\n        return not self.items"}
+{"<QUESTION>": "Write a function to remove duplicates from a list", "<RESPONSE>": "def remove_duplicates(lst):\n    return list(set(lst))"}
+{"<QUESTION>": "Create a class representing a queue with methods to enqueue, dequeue, and check if it's empty", "<RESPONSE>": "class Queue:\n    def __init__(self):\n        self.items = []\n    def enqueue(self, item):\n        self.items.append(item)\n    def dequeue(self):\n        return self.items.pop(0)\n    def is_empty(self):\n        return not self.items"}
+{"<QUESTION>": "Write a function to find the sum of all elements in a list", "<RESPONSE>": "def sum_list(lst):\n    return sum(lst)"}
+{"<QUESTION>": "Create a class representing a binary tree with methods to insert, search, and traverse it", "<RESPONSE>": "class TreeNode:\n    def __init__(self, value):\n        self.value = value\n        self.left = None\n        self.right = None\n\nclass BinaryTree:\n    def __init__(self):\n        self.root = None\n    def insert(self, value):\n        if not self.root:\n            self.root = TreeNode(value)\n        else:\n            self._insert_recursively(self.root, value)\n    def _insert_recursively(self, node, value):\n        if value < node.value:\n            if not node.left:\n                node.left = TreeNode(value)\n            else:\n                self._insert_recursively(node.left, value)\n        else:\n            if not node.right:\n                node.right = TreeNode(value)\n            else:\n                self._insert_recursively(node.right, value)"}
+{"<QUESTION>": "Write a function to check if a number is prime", "<RESPONSE>": "def is_prime(n):\n    if n <= 1:\n        return False\n    for i in range(2, int(n ** 0.5) + 1):\n        if n % i == 0:\n            return False\n    return True"}
+{"<QUESTION>": "Write a function to calculate the sum of all numbers from 1 to n", "<RESPONSE>": "def sum_of_numbers(n):\n    return sum(range(1, n+1))"}
+{"<QUESTION>": "Create a function to reverse a string", "<RESPONSE>": "def reverse_string(s):\n    return s[::-1]"}
+{"<QUESTION>": "Write a function to find the maximum element in a list", "<RESPONSE>": "def find_max(lst):\n    return max(lst)"}
+{"<QUESTION>": "Create a function to check if a number is even", "<RESPONSE>": "def is_even(n):\n    return n % 2 == 0"}
+{"<QUESTION>": "Write a function to calculate the factorial of a number iteratively", "<RESPONSE>": "def factorial(n):\n    result = 1\n    for i in range(1, n + 1):\n        result *= i\n    return result"}
+{"<QUESTION>": "Create a function to count the number of vowels in a string", "<RESPONSE>": "def count_vowels(s):\n    return sum(1 for char in s if char in 'aeiouAEIOU')"}
+{"<QUESTION>": "Write a function to check if a string is a palindrome", "<RESPONSE>": "def is_palindrome(s):\n    return s == s[::-1]"}
+{"<QUESTION>": "Create a function to remove duplicate elements from a list", "<RESPONSE>": "def remove_duplicates(lst):\n    return list(set(lst))"}
+{"<QUESTION>": "Write a function to find the index of the first occurrence of an element in a list", "<RESPONSE>": "def find_index(lst, element):\n    return lst.index(element) if element in lst else -1"}
+{"<QUESTION>": "Create a function to concatenate two lists", "<RESPONSE>": "def concatenate_lists(lst1, lst2):\n    return lst1 + lst2"}
+{"<QUESTION>": "Write a function to check if a number is prime", "<RESPONSE>": "def is_prime(n):\n    if n <= 1:\n        return False\n    for i in range(2, int(n ** 0.5) + 1):\n        if n % i == 0:\n            return False\n    return True"}
+{"<QUESTION>": "Create a numpy array of zeros with shape (3, 3)", "<RESPONSE>": "import numpy as np\nzeros_array = np.zeros((3, 3))"}
+{"<QUESTION>": "Generate a numpy array of random integers between 1 and 10 with shape (2, 4)", "<RESPONSE>": "import numpy as np\nrandom_array = np.random.randint(1, 11, size=(2, 4))"}
+{"<QUESTION>": "Calculate the mean of elements in a numpy array", "<RESPONSE>": "import numpy as np\narray = np.array([1, 2, 3, 4, 5])\nmean_value = np.mean(array)"}
+{"<QUESTION>": "Reshape a numpy array of shape (2, 6) into shape (3, 4)", "<RESPONSE>": "import numpy as np\narray = np.arange(12).reshape(2, 6)\nreshaped_array = array.reshape(3, 4)"}
+{"<QUESTION>": "Create a numpy array of 10 equally spaced values between 0 and 1", "<RESPONSE>": "import numpy as np\narray = np.linspace(0, 1, 10)"}
+{"<QUESTION>": "Find the maximum element in a numpy array", "<RESPONSE>": "import numpy as np\narray = np.array([3, 7, 1, 9, 2])\nmax_value = np.max(array)"}
+{"<QUESTION>": "Calculate the dot product of two numpy arrays", "<RESPONSE>": "import numpy as np\narray1 = np.array([1, 2, 3])\narray2 = np.array([4, 5, 6])\ndot_product = np.dot(array1, array2)"}
+{"<QUESTION>": "Compute the element-wise square root of a numpy array", "<RESPONSE>": "import numpy as np\narray = np.array([4, 9, 16])\nsqrt_array = np.sqrt(array)"}
+{"<QUESTION>": "Find the index of the maximum element in a numpy array", "<RESPONSE>": "import numpy as np\narray = np.array([3, 7, 1, 9, 2])\nmax_index = np.argmax(array)"}
+{"<QUESTION>": "Transpose a numpy array", "<RESPONSE>": "import numpy as np\narray = np.array([[1, 2, 3], [4, 5, 6]])\ntransposed_array = array.T"}
+{"<QUESTION>": "Generate a numpy array of random numbers with a normal distribution with mean 0 and standard deviation 1", "<RESPONSE>": "import numpy as np\nrandom_array = np.random.normal(0, 1, size=(3, 3))"}
+{"<QUESTION>": "Create a numpy array with values ranging from 0 to 10, excluding 10", "<RESPONSE>": "import numpy as np\narray = np.arange(10)"}
+{"<QUESTION>": "Compute the eigenvalues and eigenvectors of a square numpy array", "<RESPONSE>": "import numpy as np\narray = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])\neigenvalues, eigenvectors = np.linalg.eig(array)"}
+{"<QUESTION>": "Calculate the determinant of a 3x3 numpy array", "<RESPONSE>": "import numpy as np\narray = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])\ndeterminant = np.linalg.det(array)"}
+{"<QUESTION>": "Find the index of the closest element to a given value in a numpy array", "<RESPONSE>": "import numpy as np\narray = np.array([1, 3, 5, 7, 9])\nvalue = 6\nindex = np.abs(array - value).argmin()"}
+{"<QUESTION>": "Create a numpy array with values from a given list of lists", "<RESPONSE>": "import numpy as np\nlist_of_lists = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]\narray = np.array(list_of_lists)"}
+{"<QUESTION>": "Compute the inverse of a 3x3 numpy array", "<RESPONSE>": "import numpy as np\narray = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])\ninverse = np.linalg.inv(array)"}
+{"<QUESTION>": "Generate a random permutation of integers from 0 to 9", "<RESPONSE>": "import numpy as np\npermutation = np.random.permutation(10)"}
+{"<QUESTION>": "Calculate the cross product of two numpy arrays", "<RESPONSE>": "import numpy as np\narray1 = np.array([1, 2, 3])\narray2 = np.array([4, 5, 6])\ncross_product = np.cross(array1, array2)"}
+{"<QUESTION>": "Find the unique elements and their counts in a numpy array", "<RESPONSE>": "import numpy as np\narray = np.array([1, 2, 1, 3, 2, 4, 5, 5, 4])\nunique_elements, counts = np.unique(array, return_counts=True)"}
+{"<QUESTION>": "Perform a fast Fourier transform (FFT) on a numpy array", "<RESPONSE>": "import numpy as np\narray = np.array([1, 2, 3, 4])\nfft_result = np.fft.fft(array)"}
+{"<QUESTION>": "Calculate the cumulative sum along a specified axis of a numpy array", "<RESPONSE>": "import numpy as np\narray = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])\ncumulative_sum = np.cumsum(array, axis=0)"}
+{"<QUESTION>": "Generate a 3x3 identity matrix using numpy", "<RESPONSE>": "import numpy as np\nidentity_matrix = np.eye(3)"}
+{"<QUESTION>": "Compute the log of each element in a numpy array", "<RESPONSE>": "import numpy as np\narray = np.array([1, 2, 3, 4])\nlog_array = np.log(array)"}
+{"<QUESTION>": "Calculate the Kronecker product of two numpy arrays", "<RESPONSE>": "import numpy as np\narray1 = np.array([[1, 2], [3, 4]])\narray2 = np.array([[5, 6], [7, 8]])\nkronecker_product = np.kron(array1, array2)"}
+{"<QUESTION>": "Compute the outer product of two numpy arrays", "<RESPONSE>": "import numpy as np\narray1 = np.array([1, 2, 3])\narray2 = np.array([4, 5, 6])\nouter_product = np.outer(array1, array2)"}
+{"<QUESTION>": "Calculate the percentile of a numpy array at a given rank", "<RESPONSE>": "import numpy as np\narray = np.array([1, 2, 3, 4, 5])\npercentile = np.percentile(array, 75)"}
+{"<QUESTION>": "Perform matrix multiplication between two numpy arrays", "<RESPONSE>": "import numpy as np\narray1 = np.array([[1, 2], [3, 4]])\narray2 = np.array([[5, 6], [7, 8]])\nmatrix_product = np.matmul(array1, array2)"}
+{"<QUESTION>": "Compute the cross-correlation of two numpy arrays", "<RESPONSE>": "import numpy as np\narray1 = np.array([1, 2, 3, 4])\narray2 = np.array([3, 4, 5, 6])\ncross_correlation = np.correlate(array1, array2, mode='same')"}
+{"<QUESTION>": "Create a Pandas DataFrame from a dictionary where keys are column names and values are lists of data", "<RESPONSE>": "import pandas as pd\ndata = {'Name': ['Alice', 'Bob', 'Charlie'], 'Age': [25, 30, 35], 'City': ['New York', 'Los Angeles', 'Chicago']}\ndf = pd.DataFrame(data)"}
+{"<QUESTION>": "Read a CSV file into a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\ndf = pd.read_csv('file.csv')"}
+{"<QUESTION>": "Display the first 5 rows of a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\ndf.head()"}
+{"<QUESTION>": "Select a single column from a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\ncolumn = df['Column_Name']"}
+{"<QUESTION>": "Filter rows in a Pandas DataFrame based on a condition", "<RESPONSE>": "import pandas as pd\nfiltered_df = df[df['Column'] > 5]"}
+{"<QUESTION>": "Rename columns in a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\ndf.rename(columns={'old_name': 'new_name'} inplace=True)"}
+{"<QUESTION>": "Compute the mean value of a numerical column in a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\nmean_value = df['Column'].mean()"}
+{"<QUESTION>": "Sort rows in a Pandas DataFrame based on a column", "<RESPONSE>": "import pandas as pd\ndf.sort_values(by='Column', ascending=False)"}
+{"<QUESTION>": "Drop rows with missing values in a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\ndf.dropna()"}
+{"<QUESTION>": "Concatenate two Pandas DataFrames vertically", "<RESPONSE>": "import pandas as pd\nconcatenated_df = pd.concat([df1, df2])"}
+{"<QUESTION>": "Create a Pandas DataFrame from a list of dictionaries", "<RESPONSE>": "import pandas as pd\ndata = [{'Name': 'Alice', 'Age': 25} {'Name': 'Bob', 'Age': 30} {'Name': 'Charlie', 'Age': 35}]\ndf = pd.DataFrame(data)"}
+{"<QUESTION>": "Read an Excel file into a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\ndf = pd.read_excel('file.xlsx')"}
+{"<QUESTION>": "Display the last 5 rows of a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\ndf.tail()"}
+{"<QUESTION>": "Select multiple columns from a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\ncolumns = df[['Column1', 'Column2']]"}
+{"<QUESTION>": "Filter rows in a Pandas DataFrame based on multiple conditions", "<RESPONSE>": "import pandas as pd\nfiltered_df = df[(df['Column1'] > 5) & (df['Column2'] < 10)]"}
+{"<QUESTION>": "Drop a specific column from a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\ndf.drop(columns=['Column'], inplace=True)"}
+{"<QUESTION>": "Compute the median value of a numerical column in a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\nmedian_value = df['Column'].median()"}
+{"<QUESTION>": "Group rows in a Pandas DataFrame based on a column", "<RESPONSE>": "import pandas as pd\ngrouped_df = df.groupby('Column')"}
+{"<QUESTION>": "Fill missing values in a Pandas DataFrame with a specific value", "<RESPONSE>": "import pandas as pd\ndf.fillna(value, inplace=True)"}
+{"<QUESTION>": "Merge two Pandas DataFrames using a common column", "<RESPONSE>": "import pandas as pd\nmerged_df = pd.merge(df1, df2, on='Common_Column')"}
+{"<QUESTION>": "Reshape a Pandas DataFrame using the melt function", "<RESPONSE>": "import pandas as pd\nmelted_df = pd.melt(df, id_vars=['ID'], value_vars=['Variable1', 'Variable2'], var_name='Variable_Name', value_name='Value')"}
+{"<QUESTION>": "Perform a pivot table operation on a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\npivot_table = df.pivot_table(index='Index_Column', columns='Column', values='Value', aggfunc='mean')"}
+{"<QUESTION>": "Apply a custom function to each row or column of a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\ndef custom_function(row):\n    return row['Column1'] + row['Column2']\nresult = df.apply(custom_function, axis=1)"}
+{"<QUESTION>": "Perform a time-series operation on a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\ndf['Date'] = pd.to_datetime(df['Date'])\ndf.set_index('Date', inplace=True)\nresampled_df = df.resample('M').mean()"}
+{"<QUESTION>": "Handle missing values by imputing with mean, median, or mode in a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\nmean_imputed_df = df.fillna(df.mean())\nmedian_imputed_df = df.fillna(df.median())\nmode_imputed_df = df.fillna(df.mode().iloc[0])"}
+{"<QUESTION>": "Apply a rolling window function to a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\nrolling_window = df['Column'].rolling(window=3).mean()"}
+{"<QUESTION>": "Handle categorical data encoding using one-hot encoding in a Pandas DataFrame", "<RESPONSE>": "import pandas as pd\ndummies_df = pd.get_dummies(df['Categorical_Column'], prefix='Category')"}
