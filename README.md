@@ -1,2 +1,4 @@
 # Python-Chatbot-with-Gemma
 This repo contains a submission for the "Google – AI Assistants for Data Tasks with Gemma" Kaggle competition. The notebook showcases how Google's Gemma models can easily be used to create cost-effective and high-quality language models. A chatbot named "PyGEM" (a mix of "Python" and "Gemma") is designed to answer questions about the Python programming language. Along the way, the concepts of Retrieval-Augmented Generation (RAG), embedding models, large language model evaluation metrics, model fine-tuning with low-rank adaptation (LoRA), and interactive displays are discussed.
+
+Update: As of May 2024, this submission was deemed the first-place winner of the Python chatbot category in the "Google – AI Assistants for Data Tasks with Gemma" Kaggle competition! The notebook can be seen on Kaggle [here](https://www.kaggle.com/code/davidtroxellucla/pygem-a-chatbot-for-python-questions-using-gemma)).
